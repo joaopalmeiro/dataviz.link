@@ -2,6 +2,10 @@
   "version": 2,
   "redirects": [
     {
+      "source": "/library",
+      "destination": "https://medium.com/feedzaitech/plotting-the-first-point-of-the-feedzai-charting-library-50f21b4a5e01"
+    },
+    {
       "source": "/datashift",
       "destination": "https://arxiv.org/abs/2204.14025"
     },
