@@ -2,12 +2,9 @@
   "version": 2,
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://arxiv.org/abs/2204.14025"
-    },
-    {
       "source": "/datashift",
       "destination": "https://arxiv.org/abs/2204.14025"
-    }
+    },
+    { "source": "/.*", "destination": "https://arxiv.org/abs/2204.14025" }
   ]
 }
