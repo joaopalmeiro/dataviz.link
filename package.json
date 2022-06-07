@@ -12,5 +12,11 @@
   "bugs": {
     "url": "https://github.com/joaopalmeiro/dataviz.link/issues"
   },
-  "homepage": "https://github.com/joaopalmeiro/dataviz.link#readme"
+  "homepage": "https://github.com/joaopalmeiro/dataviz.link#readme",
+  "devDependencies": {
+    "vercel": "^25.0.1"
+  },
+  "scripts": {
+    "deploy": "vercel --prod"
+  }
 }
