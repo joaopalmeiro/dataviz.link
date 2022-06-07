@@ -1,0 +1,16 @@
+{
+  "name": "dataviz.link",
+  "version": "1.0.0",
+  "description": "My URL shortener for things related to Data Visualization.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/dataviz.link.git"
+  },
+  "author": "João Palmeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/dataviz.link/issues"
+  },
+  "homepage": "https://github.com/joaopalmeiro/dataviz.link#readme"
+}
