@@ -7,12 +7,15 @@
     },
     {
       "source": "/datashift",
-      "destination": "https://arxiv.org/abs/2204.14025"
+      "destination": "https://diglib.eg.org/handle/10.2312/evs20221097"
     },
     {
       "source": "/datashift-slides",
       "destination": "https://www.figma.com/proto/yRrQuHd91mo6ePWWykndM8/slides-eurovis"
     },
-    { "source": "/(.*)", "destination": "https://arxiv.org/abs/2204.14025" }
+    {
+      "source": "/(.*)",
+      "destination": "https://diglib.eg.org/handle/10.2312/evs20221097"
+    }
   ]
 }
